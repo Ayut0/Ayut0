@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ayut0
 - 👀 I’m interested in JavaScript, TypeScript, React.js, Next.js.
-- 🌱 I’m currently learning JavaScript and React.js
+- 🌱 I’m currently learning JavaScript and React.js.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

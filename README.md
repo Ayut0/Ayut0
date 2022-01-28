@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @Ayut0
-- 👀 I’m interested in JavaScript, TypeScript, React.js, Next.js.
-- 🌱 I’m currently learning HTML, CSS, SCSS, JavaScript and React.js.
-- 💞️ I’m looking to collaborate on ...
+## Hi, I’m Yuto (@Ayut0)
+  I'm a student, learning computer science in Vancouver.
+  
+  On my dairy basis I'm always trying to leran something new and blash up my skills.
+  I like solving problems efficiently.
+  
+ 
+## What I'm focus on 👀 💻
+  I’m currently working on React.js.
+
 - 📫 How to reach me ...
 
 <!---

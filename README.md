@@ -13,7 +13,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayut0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Skills
-<img src="/javascript.png" alt="drawing" width="50"/>
+<img src="/javascript.png" alt="drawing" width="50"/> <img src="/sass.png" alt="drawing" width="60"/>
 
 ## 📫 How to reach me ...
 

@@ -6,7 +6,7 @@
   
  
 ## What I'm focus on 👀 💻
-  I’m currently working on React.js.
+  I’m currently working on React.js and firebase.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayut0&show_icons=true&theme=merko)
 

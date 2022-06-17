@@ -16,6 +16,7 @@
 <img src="/javascript.png" alt="drawing" width="50"/><img src="/react-logo.png" alt="drawing" width="50"/> <img src="/sass.png" alt="drawing" width="60"/> <img src="/figma-1-logo-png-transparent.png" alt="drawing" height="60" width="50"/>
 
 ## 📫 How to reach me ...
+[LinkedIn](https://www.linkedin.com/in/yutoyama)
 
 
 

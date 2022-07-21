@@ -5,7 +5,7 @@
   I like solving problems efficiently.
   
 ## 📫 How to reach me ...
-I am always open to new opptunity.
+I am always open to a new opptunity.
 
 Please feel free to reach out to me via
 [LinkedIn](https://www.linkedin.com/in/yutoyama)

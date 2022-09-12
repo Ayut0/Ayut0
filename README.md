@@ -1,17 +1,18 @@
 <h1>Hi 👋, I'm Yuto</h1>
-  I'm a student, learning computer science in Vancouver.
+  I'm a frontend developer and a student, learning computer science in Vancouver.
   
   On my dairy basis I'm always trying to leran something new and blash up my skills.
   I like solving problems efficiently.
   
 ## 📫 How to reach me ...
 I am always open to a new opptunity.
+Especially looking for a volunteer oppotunity as a frontend developer.
 
 Please feel free to reach out to me via
 [LinkedIn](https://www.linkedin.com/in/yutoyama)
  
 ## 🌱 What I'm focus on
-  **React, TypeScript, Node.js and SQL**
+  **React, TypeScript, Node.js, express.js and SQL(Mongo DB) to become a MERN stuck developer**
   
 ## 👨‍💻 All of my projects are available at
 [https://silly-haupia-f813f9.netlify.app/](https://silly-haupia-f813f9.netlify.app/)

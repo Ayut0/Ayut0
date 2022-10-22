@@ -12,7 +12,7 @@ Please feel free to reach out to me via
 [LinkedIn](https://www.linkedin.com/in/yutoyama)
  
 ## 🌱 What I'm focus on
-  **React, TypeScript, Node.js, express.js and SQL(Mongo DB) to become a MERN stuck developer**
+  **React, Next.JS, TypeScript, Node.js, express.js and SQL(Mongo DB) to become a MERN stack developer**
   
 ## 👨‍💻 All of my projects are available at
 [https://silly-haupia-f813f9.netlify.app/](https://silly-haupia-f813f9.netlify.app/)

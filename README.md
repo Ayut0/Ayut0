@@ -17,6 +17,8 @@ Please feel free to reach out to me via
 ## 👨‍💻 All of my projects are available at
 [https://silly-haupia-f813f9.netlify.app/](https://silly-haupia-f813f9.netlify.app/)
 
+Feel free to visit me!!
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayut0&show_icons=true&theme=merko)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayut0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

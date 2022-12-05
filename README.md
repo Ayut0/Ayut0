@@ -1,3 +1,12 @@
+<div id="header" align="center">
+  <img height="150px" width="100px" src="https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif">
+  <div id="badges">
+  <a href="www.linkedin.com/in/yutoyama">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+</div>
+
 <h1>Hi 👋, I'm Yuto</h1>
   I'm a frontend developer and a student, learning computer science in Vancouver.
   

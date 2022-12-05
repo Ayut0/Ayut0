@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img height="150px" width="100px" src="https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif">
   <div id="badges">
-  <a href="www.linkedin.com/in/yutoyama">
+  <a href="https://www.linkedin.com/in/yutoyama/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>

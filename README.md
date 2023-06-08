@@ -17,14 +17,14 @@
   I like solving problems efficiently.
   
 ## 📫 How to reach me ...
-I am always open to a new opptunity.
-Especially looking for a volunteer oppotunity as a frontend developer.
+I am always open to new opprtunites.
+Especially looking for a software developer position.
 
 Please feel free to reach out to me via
 [LinkedIn](https://www.linkedin.com/in/yutoyama)
  
 ## 🌱 What I'm focus on
-  **React, Next.JS, TypeScript, Node.js, express.js and SQL(Postgre) or Mongo DB to become a MERN stack developer**
+  **React, Next.JS, TypeScript, Node.js, express.js and SQL(Postgre) or Mongo DB**
   
 ## 👨‍💻 All of my projects are available at
 [Portfolio](https://my-portfolio-two-self-48.vercel.app/)

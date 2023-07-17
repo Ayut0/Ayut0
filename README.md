@@ -11,25 +11,30 @@
 </div>
 
 <h1>Hi 👋, I'm Yuto</h1>
-  I'm a frontend developer and a student, learning computer science in Vancouver.
-  
-  On my dairy basis I'm always trying to leran something new and blash up my skills.
-  I like solving problems efficiently.
+ Hello there! I'm Yuto, an experienced Frontend developer with a strong passion for crafting exceptional user experiences. I specialize in utilizing Next.js, React.js, and TypeScript to build modern and performant web applications. With a dedicated work ethic and a problem-solving mindset, I strive to deliver logical and efficient solutions.
   
 ## 📫 How to reach me ...
-I am always open to new opprtunites.
+I am always open to new opportunities.
 Especially looking for a software developer position.
 
 Please feel free to reach out to me via
 [LinkedIn](https://www.linkedin.com/in/yutoyama)
  
-## 🌱 What I'm focus on
-  **React, Next.JS, TypeScript, Node.js, express.js and SQL(Postgre) or Mongo DB**
+## 🌱 Skills and expertise
+
+### Frontend Development
+  React, Next.JS, TypeScript, SCSS, Material UI, Tailwind.css, Storybook
+  
+### Backend Development
+  Node.js, express.js and SQL(Postgre), Mongo DB, Firebase
+
+### Tools
+  Sanity io, GitHub, WordPress, Figma, Canva
   
 ## 👨‍💻 All of my projects are available at
-[Portfolio](https://my-portfolio-two-self-48.vercel.app/)
 
-Feel free to visit me!!
+
+[Portfolio](https://my-portfolio-two-self-48.vercel.app/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayut0&show_icons=true&theme=merko)
 

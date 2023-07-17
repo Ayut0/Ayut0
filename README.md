@@ -33,7 +33,7 @@ Please feel free to reach out to me via
   
 ## 👨‍💻 All of my projects are available at
 
-[![Portfolio](https://github.com/Ayut0/Ayut0/assets/75427166/13425e9f-2dc1-4659-b31f-a89b46e8a583)](https://my-portfolio-two-self-48.vercel.app/)
+[![Portfolio](portfolio.png)](https://my-portfolio-two-self-48.vercel.app/)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayut0&show_icons=true&theme=merko)

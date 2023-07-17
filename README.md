@@ -33,6 +33,7 @@ Please feel free to reach out to me via
   
 ## 👨‍💻 All of my projects are available at
 
+[![Portfolio](C:)]([https://www.sejuku.net/blog/](https://my-portfolio-two-self-48.vercel.app/))
 
 [Portfolio](https://my-portfolio-two-self-48.vercel.app/)
 

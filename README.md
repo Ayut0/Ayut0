@@ -14,7 +14,6 @@
  Hello there! I'm Yuto, an experienced Software developer with a strong passion for crafting exceptional user experiences. I specialize in utilizing Next.js, TypeScript, Node.js and GraphQL to build modern and performant web applications. With a dedicated work ethic and a problem-solving mindset, I strive to deliver logical and efficient solutions.
   
 ## 📫 How to reach me ...
-I am open to a software developer position.
 
 Please feel free to reach out to me via
 [LinkedIn](https://www.linkedin.com/in/yutoyama)

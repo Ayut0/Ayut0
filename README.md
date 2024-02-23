@@ -21,7 +21,7 @@ Please feel free to reach out to me via
 ## 🌱 Skills and expertise
 
 ### Frontend Development
-  React, Next.JS, TypeScript, SCSS, Material UI, Tailwind.css, Storybook
+  React, Next.JS, TypeScript, Tailwind.css, SCSS, Material UI, Storybook
   
 ### Backend Development
   Node.js, GraphQL, PostgreSQL, Mongo DB, Firebase

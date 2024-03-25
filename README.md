@@ -16,7 +16,7 @@
 ## 📫 How to reach me ...
 
 Please feel free to reach out to me via
-[LinkedIn](https://www.linkedin.com/in/yutoyama)
+[LinkedIn](https://www.linkedin.com/in/yuto-yamakita)
  
 ## 🌱 Skills and expertise
 

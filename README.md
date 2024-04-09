@@ -24,7 +24,7 @@ Please feel free to reach out to me via
   React, Next.JS, TypeScript, Tailwind.css, SCSS, Material UI, Storybook
   
 ### Backend Development
-  Node.js, GraphQL, PostgreSQL, Mongo DB, Firebase
+  Node.js, Nest.js GraphQL, PostgreSQL, Mongo DB, Firebase
 
 ### Tools
   Sanity io, Dato CMS, GitHub, WordPress, Figma

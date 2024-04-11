@@ -27,7 +27,7 @@ Please feel free to reach out to me via
   Node.js, Nest.js GraphQL, PostgreSQL, Mongo DB, Firebase
 
 ### Tools
-  Sanity io, Dato CMS, GitHub, WordPress, Figma
+  Sanity io, Dato CMS, GitHub
   
 ## 👨‍💻 All of my projects are available at
 

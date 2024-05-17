@@ -41,7 +41,7 @@ Please feel free to reach out to me via
 <h3 align="left">My Skill Set</h3>
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=nextjs,react,ts,js,html,css,sass,tailwind,materialui,nodejs,express,firebase,mongodb,postgres,figma,wordpress)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=nextjs,react,ts,　python,js,html,css,sass,tailwind,materialui,nodejs,express,firebase,mongodb,postgres,figma,wordpress)](https://skills.thijs.gg)
 
 <!---
 Ayut0/Ayut0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

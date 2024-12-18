@@ -21,13 +21,13 @@ Please feel free to reach out to me via
 ## 🌱 Skills and expertise
 
 ### Frontend Development
-  React, Next.JS, TypeScript, Tailwind.css, SCSS, Material UI, Storybook
+  React, Next.JS, TypeScript, Tailwind.css, SCSS, Material UI, Storybook, Jest
   
 ### Backend Development
-  Node.js, Python, Nest.js GraphQL, PostgreSQL, Mongo DB, Firebase, FastAPI
+  Node.js, Python, Nest.js GraphQL, PostgreSQL, Mongo DB, Firebase, FastAPI, pytest
 
 ### Tools
-  Sanity io, Dato CMS, GitHub
+  Sanity io, Dato CMS, GitHub, GitHub Actions, Figma
   
 ## 👨‍💻 All of my projects are available at
 

@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img height="150px" width="100px" src="https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif">
   <div id="badges">
-  <a href="https://www.linkedin.com/in/yutoyama/">
+  <a href="https://www.linkedin.com/in/yuto-yamakita/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://my-portfolio-ayut0.vercel.app/">
@@ -11,12 +11,15 @@
 </div>
 
 <h1>Hi 👋, I'm Yuto</h1>
- Hello there! I'm Yuto, an experienced Full-Stack web developer passionate about crafting exceptional user experiences. I specialize in utilizing Next.js, TypeScript, Python, Node.js and GraphQL to build modern and performant web applications. With a dedicated work ethic and a problem-solving mindset, I strive to deliver logical and efficient solutions.
+ Hello there! I'm Yuto, an experienced Software developer passionate about crafting exceptional user experiences. I specialize in utilizing Next.js, TypeScript, Python, Node.js and GraphQL to build modern and performant web applications. With a dedicated work ethic and a problem-solving mindset, I strive to deliver logical and efficient solutions.
   
 ## 📫 How to reach me ...
 
-Please feel free to reach out to me via
-[LinkedIn](https://www.linkedin.com/in/yuto-yamakita)
+Please feel free to reach out to me through LinkedIn.
+
+ <a href="https://www.linkedin.com/in/yuto-yamakita/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
  
 ## 🌱 Skills and expertise
 

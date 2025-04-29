@@ -80,11 +80,16 @@ Please feel free to reach out to me through LinkedIn.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayut0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+### My articles are available on Medium and Zenn
+
+English articles
+[Medium](https://medium.com/@yuvto.0420)
+
+日本語の記事
+[Zenn](https://zenn.dev/ayut0)
+
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-
-My articles are available on Medium
-https://medium.com/@yuvto.0420
-
 <!---
 Ayut0/Ayut0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
